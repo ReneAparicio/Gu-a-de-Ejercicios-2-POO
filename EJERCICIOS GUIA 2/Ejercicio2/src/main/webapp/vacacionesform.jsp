@@ -14,7 +14,7 @@
 </head>
 <body>
 <h2>Ingrese los datos del empleado</h2>
-<form action="VacacionesServlet" method="post">
+<form action="vacacionesServlet" method="post">
   <div>
     <label for="nombre">Nombre:</label>
     <input type="text" id="nombre" name="nombre" required>
